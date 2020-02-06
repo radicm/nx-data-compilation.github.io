@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Content
+## Content
 - [NX 650 evolution](./another-page.html)
     - [RD02](./another-page.html)
     - [RD08](./another-page.html)
