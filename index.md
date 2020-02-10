@@ -6,7 +6,35 @@ layout: default
 - [NX 650 evolution](./articles/another-page.html)
     - [RD02](./another-page.html)
     - [RD08](./another-page.html)
-- [Engine](./articles/engine.html)
+- Engine
+    - Piston
+    - Crankshaft
+    - Camshaft
+    - Oil pump
+    - Oil cooler
+    - Air filter   
+    - Carburetor
+        - [OEM Rebuid](./another-page.html) 
+        - [Daves Mod](./another-page.html) 
+        - [Mikuni TM 40](./another-page.html)
+- Electricity
+    - CDI
+    - Coil
+    - Rectifier         
 - [Frame](./another-page.html)
+    - steering bearing
+    - Wheels
+    - Breaks
+    - Chain and sprockets
 - [Suspension](./another-page.html)
-- [Conversions](./another-page.html)
+    - Forks
+    - Rear shock
+- Common problems
+- Miscalenius mods
+    - Oil temperature gauge
+    - Voltemeter
+    - Bigger fuel tank
+    - Windshield
+    - Center stand  
+- [Conversions](./another-page.html) 
+- Service manual
